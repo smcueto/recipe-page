@@ -3,7 +3,6 @@ body {
     background-color: #ffe680;
     color: #cc4400;
     font-family: 'Quattrocento Sans', sans-serif;
-    text-align: center;
 }
 
 h1{
@@ -11,14 +10,13 @@ h1{
   font-family:'Shrikhand', cursive;
   font-size: 60px;
 }
-p {
-  width: 600px;
-}
 .left {
-  display: block;
+  width: 600px;
+  float: left;
 }
 .right {
-  display: block;
+  width: 600px;
+  float: right;
 }
 h2 {
   color: #b33c00;
@@ -27,7 +25,6 @@ h2 {
 }
 table {
   width: 600px;
-  text-align: center;
 }
 .picturesOfFood {
   width: 600px;
