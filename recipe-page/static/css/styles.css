@@ -11,6 +11,9 @@ h1{
   font-family:'Shrikhand', cursive;
   font-size: 60px;
 }
+p {
+  width: 600px;
+}
 .left {
   display: block;
 }
@@ -26,9 +29,6 @@ table {
   width: 600px;
   text-align: center;
 }
-.button-links {
-
-}
-.youtubeVids{
-
+.picturesOfFood {
+  width: 600px;
 }
