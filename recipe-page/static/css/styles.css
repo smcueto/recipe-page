@@ -5,10 +5,13 @@ body {
     font-family: 'Quattrocento Sans', sans-serif;
 }
 
-h1{
+h1 {
   color: #b33c00;
   font-family:'Shrikhand', cursive;
   font-size: 60px;
+}
+.descriptionParagraphText {
+  width: 600px;
 }
 .left {
   width: 600px;
@@ -17,15 +20,26 @@ h1{
 .right {
   width: 600px;
   float: right;
+  margin-left: 30px;
 }
 h2 {
   color: #b33c00;
   font-family:'Great Vibes', cursive;
   font-size: 40px;
+  text-align: center;
 }
 table {
   width: 600px;
+  border-style: solid;
+  text-align: center;
 }
 .picturesOfFood {
   width: 600px;
+}
+img {
+    border-radius: 50px;
+}
+.button-links {
+  margin-bottom: 50px;
+  text-align: center;
 }
