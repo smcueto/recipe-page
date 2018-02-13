@@ -1,0 +1,34 @@
+/*/Users/smcueto/documents/techtonica-projects/recipe-page/static/css/styles.css */
+body {
+    background-color: #ffe680;
+    color: #cc4400;
+    font-family: 'Quattrocento Sans', sans-serif;
+    text-align: center;
+}
+
+h1{
+  color: #b33c00;
+  font-family:'Shrikhand', cursive;
+  font-size: 60px;
+}
+.left {
+  display: block;
+}
+.right {
+  display: block;
+}
+h2 {
+  color: #b33c00;
+  font-family:'Great Vibes', cursive;
+  font-size: 40px;
+}
+table {
+  width: 600px;
+  text-align: center;
+}
+.button-links {
+
+}
+.youtubeVids{
+
+}
