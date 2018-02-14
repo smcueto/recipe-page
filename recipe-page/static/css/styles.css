@@ -1,30 +1,33 @@
 /*/Users/smcueto/documents/techtonica-projects/recipe-page/static/css/styles.css */
 body {
-    background-color: #ffe680;
-    color: #cc4400;
-    font-family: 'Quattrocento Sans', sans-serif;
+    background-color: #ffffff;
+    font-family: 'Oxygen', sans-serif;
+    width: auto;
+    height: auto;
+    left: auto;
+    right: auto;
 }
 
 h1 {
-  color: #b33c00;
-  font-family:'Shrikhand', cursive;
+  color: 	#a6f2a6;
+  font-family: 'Sacramento', cursive;
   font-size: 60px;
+  text-align: center;
 }
-.descriptionParagraphText {
-  width: 600px;
-}
+
 .left {
   width: 600px;
   float: left;
+  margin-left: 50px;
 }
 .right {
   width: 600px;
   float: right;
-  margin-left: 30px;
+  margin-right: 50px;
 }
 h2 {
-  color: #b33c00;
-  font-family:'Great Vibes', cursive;
+  color: #a1f7a1;
+  font-family: 'Pacifico', cursive;
   font-size: 40px;
   text-align: center;
 }
@@ -38,6 +41,7 @@ table {
 }
 img {
     border-radius: 50px;
+
 }
 .button-links {
   margin-bottom: 50px;
