@@ -15,7 +15,15 @@ h1 {
 
 .top {
   image-resolution: from-image;
-  text-align: center; }
+  text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+#top_main_picture{
+  transform: rotate(270deg);
+  width: 400px;
+  height: 600px;
+}
 
 .left {
   width: 600px;
@@ -36,11 +44,10 @@ h2 {
 table {
   width: 600px;
   border-style: solid;
-  text-align: center; }
+  text-align: center;
+}
 
-/* .picturesOfFood {
-  width: 600px;
-} */
+
 
 img {
   border-radius: 50px; }
