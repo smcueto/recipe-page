@@ -1,0 +1,52 @@
+/*/Users/smcueto/documents/techtonica-projects/recipe-page/static/css/styles.css */
+body {
+  background-color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  width: auto;
+  height: auto;
+  left: auto;
+  right: auto; }
+
+h1 {
+  color: #a6f2a6;
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  text-align: center; }
+
+.top {
+  image-resolution: from-image;
+  text-align: center; }
+
+.left {
+  width: 600px;
+  float: left;
+  margin-left: 50px; }
+
+.right {
+  width: 600px;
+  float: right;
+  margin-right: 50px; }
+
+h2 {
+  color: #a1f7a1;
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  text-align: center; }
+
+table {
+  width: 600px;
+  border-style: solid;
+  text-align: center; }
+
+/* .picturesOfFood {
+  width: 600px;
+} */
+
+img {
+  border-radius: 50px; }
+
+.button-links {
+  margin-bottom: 50px;
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
