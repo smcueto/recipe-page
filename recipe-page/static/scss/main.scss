@@ -6,38 +6,41 @@ body {
   width: auto;
   height: auto;
   left: auto;
-  right: auto;
-}
+  right: auto; }
 
 h1 {
   color: #a6f2a6;
   font-family: 'Sacramento', cursive;
   font-size: 60px;
-  text-align: center;
-}
+  text-align: center; }
 
 .top {
+  image-resolution: from-image;
   text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+#top_main_picture{
+  transform: rotate(270deg);
+  width: 400px;
+  height: 600px;
 }
 
 .left {
   width: 600px;
   float: left;
-  margin-left: 50px;
-}
+  margin-left: 50px; }
 
 .right {
   width: 600px;
   float: right;
-  margin-right: 50px;
-}
+  margin-right: 50px; }
 
 h2 {
   color: #a1f7a1;
   font-family: 'Pacifico', cursive;
   font-size: 40px;
-  text-align: center;
-}
+  text-align: center; }
 
 table {
   width: 600px;
@@ -45,15 +48,11 @@ table {
   text-align: center;
 }
 
-.picturesOfFood {
-  width: 600px;
-}
+
 
 img {
-  border-radius: 50px;
-}
+  border-radius: 50px; }
 
 .button-links {
   margin-bottom: 50px;
-  text-align: center;
-}
+  text-align: center; }
